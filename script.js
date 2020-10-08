@@ -51,6 +51,7 @@ function numberPress(number) {
     }
   }
 }
+
 //
 function Percent () {
 FKeyPad.ReadOut.value = (parseFloat(FKeyPad.ReadOut.value) / 100) * parseFloat(Accum);
